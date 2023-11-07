@@ -1,4 +1,4 @@
-### Hello ✌️, i'm Alex, here my interest is to develop my own code, not copy other codes/devs
+### Hello ✌️ i'm Alex, here my interest is to develop my own code, not copy other codes/devs
 
 <div style="display: inline_block"> <br/> 
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
